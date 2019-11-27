@@ -1,0 +1,11 @@
+C:\Users\josepmaria.aguilar\Documents\GitHub\DDD-Aggregate\DDDAggregate\obj\Debug\netcoreapp3.0\DDDAggregate.csprojAssemblyReference.cache
+C:\Users\josepmaria.aguilar\Documents\GitHub\DDD-Aggregate\DDDAggregate\obj\Debug\netcoreapp3.0\DDDAggregate.AssemblyInfoInputs.cache
+C:\Users\josepmaria.aguilar\Documents\GitHub\DDD-Aggregate\DDDAggregate\obj\Debug\netcoreapp3.0\DDDAggregate.AssemblyInfo.cs
+C:\Users\josepmaria.aguilar\Documents\GitHub\DDD-Aggregate\DDDAggregate\bin\Debug\netcoreapp3.0\DDDAggregate.exe
+C:\Users\josepmaria.aguilar\Documents\GitHub\DDD-Aggregate\DDDAggregate\bin\Debug\netcoreapp3.0\DDDAggregate.deps.json
+C:\Users\josepmaria.aguilar\Documents\GitHub\DDD-Aggregate\DDDAggregate\bin\Debug\netcoreapp3.0\DDDAggregate.runtimeconfig.json
+C:\Users\josepmaria.aguilar\Documents\GitHub\DDD-Aggregate\DDDAggregate\bin\Debug\netcoreapp3.0\DDDAggregate.runtimeconfig.dev.json
+C:\Users\josepmaria.aguilar\Documents\GitHub\DDD-Aggregate\DDDAggregate\bin\Debug\netcoreapp3.0\DDDAggregate.dll
+C:\Users\josepmaria.aguilar\Documents\GitHub\DDD-Aggregate\DDDAggregate\bin\Debug\netcoreapp3.0\DDDAggregate.pdb
+C:\Users\josepmaria.aguilar\Documents\GitHub\DDD-Aggregate\DDDAggregate\obj\Debug\netcoreapp3.0\DDDAggregate.dll
+C:\Users\josepmaria.aguilar\Documents\GitHub\DDD-Aggregate\DDDAggregate\obj\Debug\netcoreapp3.0\DDDAggregate.pdb
